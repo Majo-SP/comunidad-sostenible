@@ -10,6 +10,9 @@
     padding: 0%;
 }
 
+
+/*HEADER*/
+
 .container .header{
     display: block;
     background-color: white;
@@ -56,7 +59,9 @@
     color: rgb(83, 88, 95);
 }
 
+
 /*MAIN 1*/
+
 .container .main-1{
     margin: 0%;
     padding: 0%;
@@ -77,7 +82,9 @@
     padding: 5% 20%;
 }
 
+
 /*MAIN 2*/
+
 .container .main-2{
     display: block;
     padding: 5%;
@@ -97,7 +104,9 @@
     text-align: center;
 }
 
+
 /*MAIN 3*/
+
 .container .main-3{
     display: block;
     margin: 0%;
@@ -125,14 +134,11 @@
     max-width: 35%;
     margin: 0%;
     padding: 5%;
-/*     background-color: darkgreen; */
     text-align: center;
     vertical-align: top;
     height: 250px;
     background-image: url(../img/fondo.jpg);
 }
-
-.container .main-3 .txt50 img
 
 .container .main-3 .txt50 h3{
     color: #F2F2F2;
@@ -142,7 +148,9 @@
     color: #F2F2F2;
 }
 
+
 /*MAIN 4*/
+
 .container .main-4{
     margin: 0%;
     text-align: center;
@@ -172,21 +180,26 @@
     color: #5E8039;
 }
 
+
 /*MAIN 5*/
+
 .container .main-5{
     margin: 0%;
     padding: 30px;
     background-color: #5E8039;
     text-align: center;
 }
+
 .container .main-5 h2{
     color: #F2F2F2;
 }
+
 .container .main-5 .section-main5{
     display: block;
     margin: 20px 0px;
     padding: 0%;
 }
+
 .container .main-5 .section-main5 img{
     max-width: 40%;
     text-align: right;
@@ -194,6 +207,7 @@
     vertical-align: top;
     margin-right: 15px;
 }
+
 .container .main-5 .section-main5 .text-main5{
     max-width: 40%;
     text-align: left;
@@ -202,43 +216,55 @@
     vertical-align: top;
 }
 
+
+/*MAIN 6*/
+
 .container .main-6{
     margin: 0%;
     padding: 5px;
     text-align: center;
 }
+
 .container .main-6 h2{
     color: #5E8039;
     display: block;
 }
+
 .container .main-6 .equipo{
     display: block;
 }
+
 .container .main-6 .equipo .persona-equipo{
     display: inline-block;
     max-width: 35%;
     margin: 0px 25px
 }
+
 .container .main-6 .equipo .persona-equipo .foto-perfil{
     border-radius: 200px;
 }
+
 .container .main-6 .equipo .persona-equipo h2{
     color: black;
 }
+
 .container .main-6 .equipo .persona-equipo .cargo{
     font-weight: bold;
     margin: 0%;
     padding: 0%;
 }
+
 .container .main-6 .equipo .persona-equipo p{
     margin: 0%;
     padding: 0%;
 }
+
 .container .main-6 .equipo .persona-equipo .redes-sociales-main6{
     list-style-type: none;
     margin: 15px 0px;
     padding: 0%;
 }
+
 .container .main-6 .equipo .persona-equipo .redes-sociales-main6 li{
     display: inline-block;
     margin: 0px 5px;
@@ -248,3 +274,85 @@
 .container .main-6 .equipo .persona-equipo .redes-sociales-main6 li .icono-perfil{
     max-width: 40px;
 }
+
+
+/*MAIN 7*/
+
+.container .main-7{
+    margin: 0%;
+    padding: 10px;
+    background-image: url(../img/fondo2.jpg);
+}
+
+.container .main-7 h2{
+    font-weight: bold;
+    text-align: center;
+}
+
+.container .main-7 .blog{
+    display: block;
+    margin: 0px 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.container .main-7 .blog .flecha-izq{
+    display: inline-block;
+    margin: 0px 30px 0px 0px;
+    padding: 0px;
+    vertical-align: middle;
+    width: 50px;
+}
+
+.container .main-7 .blog .flecha-der{
+    display: inline-block;
+    margin: 0px 0px 0px 30px;
+    padding: 0px;
+    vertical-align: middle;
+    width: 50px;
+}
+
+.container .main-7 .blog .post-blog{
+    text-align: left;
+    display: inline-block;
+    max-width: 25%;
+    margin: 0px 10px;
+}
+.container .main-7 .blog .post-blog img{
+    max-width: 90%;
+}
+
+.container .main-7 .blog .post-blog h2{
+    text-align: left;
+    margin: 0%;
+}
+
+.container .main-7 .blog .post-blog .fecha{
+    margin: 0%;
+}
+.container .main-7 .blog .post-blog p{
+    margin: 0%;
+}
+.container .main-7 .blog .post-blog-hover{
+    text-align: left;
+    display: inline-block;
+    max-width: 25%;
+    margin: 0px 10px;
+}
+.container .main-7 .blog .post-blog-hover img{
+    max-width: 90%;
+}
+.container .main-7 .blog .post-blog-hover h2{
+    text-align: left;
+    margin: 0%;
+    color: #5E8039;
+}
+.container .main-7 .blog .post-blog-hover .fecha{
+    margin: 0%;
+    color: #5E8039;
+}
+.container .main-7 .blog .post-blog-hover p{
+    margin: 0%;
+    color: #5E8039;
+}
+
