@@ -1,1 +1,56 @@
 /* Inserta tu codigo aqui */
+*/{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    margin: 0% auto;
+    padding: 0%;
+}
+
+.container .header{
+    display: block;
+    background-color: white;
+    padding: 0% 5%;
+}
+
+.container .header .header-left{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+.container .header .header-left img{
+    max-width: 40%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container .header .header-right{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    width: 70%;
+}
+
+.container .header .header-right ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container .header .header-right ul li{
+    margin: 10px;
+    display: inline;
+}
+
+.container .header .header-right ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(83, 88, 95);
+}
