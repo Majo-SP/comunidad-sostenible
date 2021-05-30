@@ -183,23 +183,20 @@
 }
 .container .main-5 .section-main5{
     display: block;
-    margin: 0%;
+    margin: 20px 0px;
     padding: 0%;
 }
 .container .main-5 .section-main5 img{
-    max-width: 45%;
+    max-width: 40%;
     text-align: right;
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
 }
 .container .main-5 .section-main5 .text-main5{
-    max-width: 45%;
+    max-width: 40%;
     text-align: left;
     color: #F2F2F2;
     display: inline-block;
     vertical-align: top;
 }
-.container .main-5 .section-main5 .text-main5 h2
-.container .main-5 .section-main5 .text-main5 h3
-.container .main-5 .section-main5 .text-main5 p
