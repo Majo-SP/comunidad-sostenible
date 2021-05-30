@@ -125,10 +125,11 @@
     max-width: 35%;
     margin: 0%;
     padding: 5%;
-    background-color: darkgreen;
+/*     background-color: darkgreen; */
     text-align: center;
     vertical-align: top;
     height: 250px;
+    background-image: url(../img/fondo.jpg);
 }
 
 .container .main-3 .txt50 img
@@ -199,4 +200,51 @@
     color: #F2F2F2;
     display: inline-block;
     vertical-align: top;
+}
+
+.container .main-6{
+    margin: 0%;
+    padding: 5px;
+    text-align: center;
+}
+.container .main-6 h2{
+    color: #5E8039;
+    display: block;
+}
+.container .main-6 .equipo{
+    display: block;
+}
+.container .main-6 .equipo .persona-equipo{
+    display: inline-block;
+    max-width: 35%;
+    margin: 0px 25px
+}
+.container .main-6 .equipo .persona-equipo .foto-perfil{
+    border-radius: 200px;
+}
+.container .main-6 .equipo .persona-equipo h2{
+    color: black;
+}
+.container .main-6 .equipo .persona-equipo .cargo{
+    font-weight: bold;
+    margin: 0%;
+    padding: 0%;
+}
+.container .main-6 .equipo .persona-equipo p{
+    margin: 0%;
+    padding: 0%;
+}
+.container .main-6 .equipo .persona-equipo .redes-sociales-main6{
+    list-style-type: none;
+    margin: 15px 0px;
+    padding: 0%;
+}
+.container .main-6 .equipo .persona-equipo .redes-sociales-main6 li{
+    display: inline-block;
+    margin: 0px 5px;
+    border-radius: 0px;
+}
+
+.container .main-6 .equipo .persona-equipo .redes-sociales-main6 li .icono-perfil{
+    max-width: 40px;
 }
