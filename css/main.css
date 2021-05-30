@@ -93,3 +93,46 @@
     max-width: 45%;
     text-align: center;
 }
+
+.container .main-3{
+    display: block;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+.container .main-3 .img50{
+    margin: 0%;
+    padding: 0%;
+    display: inline-block;
+    max-width: 45%;
+    vertical-align: top;
+    text-align: end;
+    height: 250px;
+}
+
+.container .main-3 .img50 img{
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.container .main-3 .txt50{
+    display: inline-block;
+    max-width: 35%;
+    margin: 0%;
+    padding: 5%;
+    background-color: darkgreen;
+    text-align: center;
+    vertical-align: top;
+    height: 250px;
+}
+
+.container .main-3 .txt50 img
+
+.container .main-3 .txt50 h3{
+    color: #F2F2F2;
+}
+
+.container .main-3 .txt50 p{
+    color: #F2F2F2;
+}
